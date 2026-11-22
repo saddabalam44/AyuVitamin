@@ -18,7 +18,7 @@ const FRONTEND_URL = process.env.FRONTEND_URL || 'https://ayuvitaminfrontend.ver
 
 // ─── Middleware ───────────────────────────────────────────────────────────────
 const allowedOrigins = new Set([
-  'http://localhost:5173',
+  'https://ayuvitamin-frontend.onrender.com',
   FRONTEND_URL.replace(/\/$/, ''),
 ]);
 
