@@ -1,6 +1,6 @@
 import React, { useState, useEffect, useCallback } from 'react'
 import { useSearchParams, useNavigate } from 'react-router-dom'
-import axios from 'axios'
+import api from '../lib/api.js'
 import { useLanguage } from '../context/LanguageContext.jsx'
 import SearchBar from '../components/SearchBar.jsx'
 import AyuGuideCard from '../components/AyuGuideCard.jsx'
@@ -52,9 +52,9 @@ export default function ResultsPage() {
 
     try {
       const [guideRes, facilitiesRes, resourcesRes] = await Promise.all([
-        axios.post('/api/guide', { query: q, lang }),
-        axios.get('/api/facilities'),
-        axios.get(`/api/resources?topic=${encodeURIComponent(q)}`),
+        api.post('/guide', { query: q, lang }),
+        api.get('/facilities'),
+        api.get(`/resources?topic=${encodeURIComponent(q)}`),
       ])
       setGuide(guideRes.data)
       setAllFacilities(facilitiesRes.data)

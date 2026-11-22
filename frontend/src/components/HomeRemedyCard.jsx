@@ -1,5 +1,5 @@
 import React, { useState } from 'react'
-import axios from 'axios'
+import api from '../lib/api.js'
 import { useLanguage } from '../context/LanguageContext.jsx'
 
 export default function HomeRemedyCard({ upchaar }) {
@@ -18,7 +18,7 @@ export default function HomeRemedyCard({ upchaar }) {
     if (hasVoted || isVoting) return
     setIsVoting(true)
     try {
-      const res = await axios.post('/api/gharelu-upchaar/vote', { upchaarId: upchaar.id })
+      const res = await api.post('/gharelu-upchaar/vote', { upchaarId: upchaar.id })
       if (res.data && res.data.newCount) {
         setVotes(res.data.newCount)
       } else {
