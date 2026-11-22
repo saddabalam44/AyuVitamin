@@ -16,21 +16,19 @@ The home page has a short guided flow. Users choose a symptom area and say wheth
 
 ### Healthcare facility listings
 
-Browse sample facility listings across Allopathy, AYUSH, Physiotherapy, and Mental Health. Filter by discipline and by city, area, address, or PIN code. Facility cards show available listing details such as services, timings, ratings, and a Google Maps link. The detail modal provides additional contact and location information where available.
-
-The location button currently applies a preset Hyderabad area/PIN code; it does not use the user's GPS coordinates to find their actual location. Ratings displayed on facility cards come from the bundled listing data or fallback display values. The app does not currently retrieve live Google ratings.
+Browse and filter facility listings across Allopathy, AYUSH, Physiotherapy, and Mental Health. Listings include location, services, timings, and map links. Facility data is sample information.
 
 ### Home remedies
 
-Some health guides include supportive home remedies with practice information and safety notes. Users can read remedy content aloud with the browser's speech synthesis and mark a remedy as helpful. The remedy content and ratings are curated/sample data. Votes are stored in MongoDB when connected; in local JSON fallback mode, changes are held in server memory and do not survive a server restart.
+Health guides may include supportive remedies and safety notes. Users can listen to remedy information and mark it helpful.
 
 ### English and Hindi
 
-The interface has an English/Hindi toggle. Health records can include translated titles, summaries, and key points. Speech playback uses the browser's built-in Web Speech API when supported by the browser and available voices.
+Switch between English and Hindi. Speech playback uses the browser's built-in speech synthesis when available.
 
 ### My Care Kit
 
-Save facilities and home remedies in the Care Kit for quick reference. Saved items are kept in the browser's local storage on that device; they are not synced to an account or across devices.
+Save facilities and home remedies in the browser for quick reference.
 
 ### Emergency information and public resources
 
@@ -38,7 +36,7 @@ Emergency contacts are shown in the site interface, including 112 and 108. Searc
 
 ## Technology
 
-- **MongoDB** stores health information, facility listings, and resource records when configured.
+- **MongoDB** stores health information, facility listings, resources, and remedy votes when configured.
 - **Express** provides the backend API.
 - **React** builds the website interface, with React Router handling page routes.
 - **Node.js** runs the backend server.
@@ -48,9 +46,7 @@ Emergency contacts are shown in the site interface, including 112 and 108. Searc
 
 ## Data and storage
 
-The starter data is in `backend/data/healthInfo.json`, `backend/data/facilities.json`, and `backend/data/resources.json`. The backend reads these files on startup and uses them when MongoDB is not connected. When MongoDB is connected, the backend syncs the bundled records into the database at startup. Facility records are replaced from the bundled list during that sync. Treat the bundled facility records and ratings as sample information and verify details with a provider before visiting.
-
-The application does not require user accounts. Saved items are stored in browser local storage. Remedy votes are the main user action written to the backend; persistent storage for votes requires MongoDB to be connected.
+The backend uses the bundled JSON data in `backend/data/` and can connect to MongoDB for persistent storage. Saved items are stored in the browser.
 
 ## Run locally
 
@@ -81,6 +77,8 @@ npm run dev
 ```
 
 Open `http://localhost:5173` in your browser.
+
+The Vite development server proxies `/api` requests to `http://localhost:3001` by default.
 
 ## Medical safety
 
