@@ -16,7 +16,20 @@ const MONGODB_URI = process.env.MONGODB_URI;
 const GOOGLE_PLACES_API_KEY = process.env.GOOGLE_PLACES_API_KEY || null;
 
 // ─── Middleware ───────────────────────────────────────────────────────────────
-app.use(cors({ origin: 'http://localhost:5173' }));
+const allowedOrigins = new Set([
+  'http://localhost:5173',
+  'https://ayuvitaminfrontend.vercel.app',
+]);
+
+app.use(cors({
+  origin(origin, callback) {
+    // Allow non-browser requests (health checks, curl) and known app origins.
+    if (!origin || allowedOrigins.has(origin)) {
+      return callback(null, true);
+    }
+    return callback(new Error('Origin is not allowed by CORS'));
+  },
+}));
 app.use(express.json());
 
 // ─── Load local fallback data ─────────────────────────────────────────────────
