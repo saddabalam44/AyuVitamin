@@ -1,0 +1,602 @@
+[
+  {
+    "id": "diabetes-1",
+    "topic": "diabetes",
+    "keywords": ["diabetes", "sugar", "blood sugar", "madhumeh", "diabetic", "शुगर", "मधुमेह"],
+    "title": "Understanding Diabetes",
+    "title_hi": "मधुमेह को समझें",
+    "summary": "Diabetes is a chronic condition where the body cannot properly regulate blood sugar (glucose) levels. There are two main types: Type 1, where the pancreas produces little or no insulin, and Type 2, where the body doesn't use insulin effectively. Common symptoms include frequent urination, excessive thirst, unexplained weight loss, fatigue, and blurred vision. With proper management — including diet, exercise, and medication when prescribed — most people with diabetes can live healthy lives.",
+    "summary_hi": "मधुमेह एक पुरानी स्थिति है जिसमें शरीर रक्त शर्करा (ग्लूकोज) के स्तर को ठीक से नियंत्रित नहीं कर पाता। दो मुख्य प्रकार हैं: टाइप 1, जिसमें अग्न्याशय कम या बिल्कुल इंसुलिन नहीं बनाता, और टाइप 2, जिसमें शरीर इंसुलिन का प्रभावी ढंग से उपयोग नहीं करता। सामान्य लक्षणों में बार-बार पेशाब आना, अत्यधिक प्यास, अकारण वजन घटना, थकान और धुंधली दृष्टि शामिल हैं।",
+    "keyPoints": [
+      "Regular blood sugar monitoring is essential for managing diabetes.",
+      "A balanced diet low in refined sugars and carbohydrates helps control blood glucose.",
+      "Regular physical activity improves insulin sensitivity.",
+      "Never stop or change diabetes medication without consulting your doctor.",
+      "Always consult a qualified healthcare professional for diagnosis and personalised treatment."
+    ],
+    "keyPoints_hi": [
+      "मधुमेह को नियंत्रित करने के लिए नियमित रक्त शर्करा की जांच जरूरी है।",
+      "परिष्कृत शर्करा और कार्बोहाइड्रेट में कम संतुलित आहार रक्त ग्लूकोज को नियंत्रित करने में मदद करता है।",
+      "नियमित शारीरिक गतिविधि इंसुलिन संवेदनशीलता में सुधार करती है।",
+      "डॉक्टर से परामर्श किए बिना कभी भी मधुमेह की दवा बंद या परिवर्तित न करें।",
+      "निदान और व्यक्तिगत उपचार के लिए हमेशा योग्य स्वास्थ्य पेशेवर से परामर्श लें।"
+    ],
+    "source": "Ministry of Health & Family Welfare / Vikaspedia India",
+    "sourceUrl": "https://vikaspedia.in/health/diseases/lifestyle-disorders/diabetes",
+    "disclaimer": "This is general health information only. It does not replace advice from a qualified healthcare professional.",
+    "ghareluUpchaar": [
+      {
+        "id": "diabetes-upchaar-1",
+        "title": "Soaked Fenugreek (Methi Dana) Water",
+        "title_hi": "मेथी दाना पानी (भिगोई हुई मेथी)",
+        "rating": 4.8,
+        "reviewCount": 2410,
+        "practice": "Soak 1 teaspoon of fenugreek seeds in a glass of water overnight. Strain and drink the water in the morning. Fenugreek seeds contain soluble fibre that can help support slow carbohydrate absorption.",
+        "practice_hi": "रात में 1 चम्मच मेथी दाना 1 गिलास पानी में भिगो दें। सुबह छानकर पानी पिएं। मेथी में घुलनशील फाइबर होता है जो पाचन में सहायक होता है।",
+        "safetyTip": "Supportive dietary measure only. Do NOT reduce or stop prescribed diabetes medicines. Regularly check blood glucose levels.",
+        "safetyTip_hi": "यह केवल सहायक आहार उपाय है। निर्धारित दवाओं को कभी बंद न करें। रक्त शर्करा की नियमित जांच करते रहें।"
+      },
+      {
+        "id": "diabetes-upchaar-2",
+        "title": "Fresh Amla (Indian Gooseberry) Juice with Cinnamon",
+        "title_hi": "आंवला का ताजा रस और दालचीनी",
+        "rating": 4.7,
+        "reviewCount": 1890,
+        "practice": "Mix 15-20 ml of fresh amla juice with a small pinch of cinnamon powder in warm water. Amla is rich in natural antioxidants and Vitamin C that promote overall metabolic health.",
+        "practice_hi": "15-20 मिली ताजे आंवले के रस में एक चुटकी दालचीनी पाउडर मिलाकर गुनगुने पानी के साथ लें। आंवला प्राकृतिक एंटीऑक्सीडेंट से भरपूर है।",
+        "safetyTip": "Complementary nutritional wellness habit. Must be coordinated with your treating doctor's dietary guidance.",
+        "safetyTip_hi": "यह केवल पूरक पोषण उपाय है। अपने डॉक्टर की आहार सलाह के अनुसार ही सेवन करें।"
+      }
+    ]
+  },
+  {
+    "id": "hypertension-1",
+    "topic": "hypertension",
+    "keywords": ["hypertension", "blood pressure", "high bp", "bp", "raktchaap", "उच्च रक्तचाप", "बीपी"],
+    "title": "High Blood Pressure (Hypertension)",
+    "title_hi": "उच्च रक्तचाप (हाइपरटेंशन)",
+    "summary": "Hypertension (high blood pressure) is a condition where the force of blood against artery walls is consistently too high. It is often called the 'silent killer' because it usually has no symptoms until serious damage has occurred. Normal blood pressure is around 120/80 mmHg. Readings consistently above 140/90 mmHg indicate hypertension. It significantly increases the risk of heart disease, stroke, and kidney damage.",
+    "summary_hi": "उच्च रक्तचाप (हाइपरटेंशन) एक ऐसी स्थिति है जिसमें धमनी की दीवारों पर रक्त का दबाव लगातार बहुत अधिक रहता है। इसे अक्सर 'साइलेंट किलर' कहा जाता है क्योंकि आमतौर पर गंभीर नुकसान होने तक इसके कोई लक्षण नहीं होते। सामान्य रक्तचाप लगभग 120/80 mmHg होता है।",
+    "keyPoints": [
+      "Regular blood pressure checks are important, especially after age 30.",
+      "Reduce salt intake to less than 5g per day as recommended by WHO.",
+      "Maintain a healthy weight, exercise regularly, and avoid smoking and alcohol.",
+      "Stress management techniques like yoga can help lower blood pressure.",
+      "Prescribed medications must be taken consistently — do not stop without medical advice."
+    ],
+    "keyPoints_hi": [
+      "नियमित रक्तचाप जांच महत्वपूर्ण है, विशेष रूप से 30 वर्ष की आयु के बाद।",
+      "WHO की सिफारिश के अनुसार नमक का सेवन प्रति दिन 5 ग्राम से कम करें।",
+      "स्वस्थ वजन बनाए रखें, नियमित व्यायाम करें, धूम्रपान और शराब से बचें।",
+      "योग जैसी तनाव प्रबंधन तकनीकें रक्तचाप कम करने में मदद कर सकती हैं।",
+      "निर्धारित दवाएं नियमित रूप से लें — चिकित्सीय सलाह के बिना बंद न करें।"
+    ],
+    "source": "World Health Organization (WHO) / MoHFW India",
+    "sourceUrl": "https://www.who.int/news-room/fact-sheets/detail/hypertension",
+    "disclaimer": "This is general health information only. It does not replace advice from a qualified healthcare professional.",
+    "ghareluUpchaar": [
+      {
+        "id": "bp-upchaar-1",
+        "title": "Crushed Garlic (Lahsun) with Warm Water",
+        "title_hi": "कच्चा लहसुन और गुनगुना पानी",
+        "rating": 4.7,
+        "reviewCount": 1780,
+        "practice": "Crush 1 small clove of raw garlic and let it rest for 5 minutes (to activate allicin), then consume with lukewarm water in the morning. Raw garlic has recognized cardiovascular-supportive properties.",
+        "practice_hi": "सुबह 1 छोटी कली लहसुन को हल्का कुचलकर 5 मिनट रखें, फिर गुनगुने पानी के साथ लें। लहसुन हृदय स्वास्थ्य के लिए अनुकूल माना जाता है।",
+        "safetyTip": "Supportive wellness practice only. Do NOT alter your prescribed blood pressure tablets. Consult doctor if on blood-thinners.",
+        "safetyTip_hi": "सहायक उपाय है। अपनी बीपी की दवा कभी न छोड़ें। यदि आप रक्त पतला करने वाली दवा ले रहे हैं तो डॉक्टर से अवश्य पूछें।"
+      },
+      {
+        "id": "bp-upchaar-2",
+        "title": "Hibiscus (Gudhal) & Cardamom Herbal Infusion",
+        "title_hi": "गुड़हल एवं इलायची का हर्बल काढ़ा",
+        "rating": 4.8,
+        "reviewCount": 1340,
+        "practice": "Steep dried hibiscus flower petals with crushed green cardamom in hot water for 7 minutes. Rich in bioflavonoids that help gently soothe the vascular system.",
+        "practice_hi": "गुड़हल की सूखी पंखुड़ियों और हरी इलायची को गर्म पानी में 7 मिनट तक उबालें और छानकर पिएं। यह प्राकृतिक रूप से सुकून देने वाला पेय है।",
+        "safetyTip": "Gentle relaxation beverage. Monitor blood pressure periodically with an approved home monitor.",
+        "safetyTip_hi": "आरामदायक हर्बल पेय है। नियमित रूप से बीपी मापते रहें।"
+      }
+    ]
+  },
+  {
+    "id": "cold-1",
+    "topic": "common cold",
+    "keywords": ["cold", "common cold", "cough", "runny nose", "sore throat", "flu", "fever", "सर्दी", "जुकाम", "खांसी"],
+    "title": "Common Cold & Seasonal Flu",
+    "title_hi": "सामान्य सर्दी और फ्लू",
+    "summary": "The common cold is a viral infection of the upper respiratory tract, primarily caused by rhinoviruses. Symptoms include runny nose, sore throat, cough, sneezing, mild fever, and body aches. Colds typically resolve within 7–10 days. Influenza (flu) is more severe with higher fever, intense body aches, and fatigue. Both spread through respiratory droplets and contact with contaminated surfaces.",
+    "summary_hi": "सामान्य सर्दी ऊपरी श्वसन तंत्र का एक वायरल संक्रमण है, जो मुख्य रूप से राइनोवायरस से होता है। लक्षणों में बहती नाक, गले में खराश, खांसी, छींकना, हल्का बुखार और शरीर में दर्द शामिल हैं। सर्दी आमतौर पर 7-10 दिनों में ठीक हो जाती है।",
+    "keyPoints": [
+      "Rest and adequate hydration are the most important treatments for a cold.",
+      "Wash hands frequently to prevent spreading the virus.",
+      "Over-the-counter medicines can relieve symptoms but won't cure the virus.",
+      "Antibiotics are not effective against viral infections like the common cold.",
+      "See a doctor if symptoms worsen, you have high fever (above 103°F/39.4°C), or symptoms last more than 10 days."
+    ],
+    "keyPoints_hi": [
+      "आराम और पर्याप्त तरल पदार्थ सर्दी के सबसे महत्वपूर्ण उपचार हैं।",
+      "वायरस फैलने से रोकने के लिए बार-बार हाथ धोएं।",
+      "ओवर-द-काउंटर दवाएं लक्षणों से राहत दे सकती हैं लेकिन वायरस को ठीक नहीं करेंगी।",
+      "एंटीबायोटिक्स सर्दी जैसे वायरल संक्रमणों के खिलाफ प्रभावी नहीं हैं।",
+      "यदि लक्षण बिगड़ें, तेज बुखार हो या लक्षण 10 दिनों से अधिक रहें तो डॉक्टर से मिलें।"
+    ],
+    "source": "Vikaspedia India (Govt of India)",
+    "sourceUrl": "https://vikaspedia.in/health/diseases/respiratory-diseases",
+    "disclaimer": "This is general health information only. It does not replace advice from a qualified healthcare professional.",
+    "ghareluUpchaar": [
+      {
+        "id": "cold-upchaar-1",
+        "title": "Tulsi, Ginger (Adrak) & Black Pepper Warm Kadha",
+        "title_hi": "तुलसी, अदरक और काली मिर्च का काढ़ा",
+        "rating": 4.9,
+        "reviewCount": 3820,
+        "practice": "Boil 6-8 fresh Tulsi leaves, 1 inch crushed ginger, 3 crushed black peppercorns, and 1 crushed clove in 2 cups of water for 7-10 minutes until reduced by half. Sip warm. Add 1/2 tsp honey once lukewarm.",
+        "practice_hi": "2 कप पानी में 6-8 तुलसी की पत्तियां, 1 इंच अदरक, 3 काली मिर्च और 1 लौंग डालकर 7-10 मिनट उबालें। गुनगुना होने पर आधा चम्मच शहद मिलाकर धीरे-धीरे पिएं।",
+        "safetyTip": "Comfort measure for throat irritation and congestion. Never give honey to infants under 1 year. If high fever persists > 3 days, see a doctor.",
+        "safetyTip_hi": "गले की खराश और बंद नाक में राहत के लिए। 1 वर्ष से कम उम्र के बच्चों को शहद न दें। यदि तेज बुखार 3 दिन से अधिक रहे तो तुरंत डॉक्टर से मिलें।"
+      },
+      {
+        "id": "cold-upchaar-2",
+        "title": "Warm Salt Water Gargle & Plain Steam Inhalation",
+        "title_hi": "गुनगुने नमक पानी के गरारे और भाप",
+        "rating": 4.9,
+        "reviewCount": 4210,
+        "practice": "Mix 1/2 teaspoon of common salt in 1 glass of warm water. Gargle for 30 seconds 3 times daily to reduce throat swelling. Inhale plain hot water steam for 5-8 minutes to loosen nasal congestion.",
+        "practice_hi": "1 गिलास गुनगुने पानी में आधा चम्मच नमक मिलाकर दिन में 3 बार गरारे करें। बंद नाक खोलने के लिए 5-8 मिनट सादे गर्म पानी की भाप लें।",
+        "safetyTip": "Do not swallow salt water. Keep a safe distance from boiling water to avoid steam burns.",
+        "safetyTip_hi": "नमक का पानी न निगलें। भाप लेते समय चेहरे को सुरक्षित दूरी पर रखें ताकि त्वचा न जले।"
+      },
+      {
+        "id": "cold-upchaar-3",
+        "title": "Haldi Doodh (Golden Turmeric Milk) at Bedtime",
+        "title_hi": "रात में गुनगुना हल्दी वाला दूध",
+        "rating": 4.8,
+        "reviewCount": 3150,
+        "practice": "Warm 1 cup of milk (dairy or plant-based) with 1/4 teaspoon pure turmeric powder and a pinch of black pepper (enhances curcumin absorption). Drink warm before bed for soothing rest.",
+        "practice_hi": "1 कप दूध में 1/4 चम्मच शुद्ध हल्दी और एक चुटकी काली मिर्च डालकर हल्का गर्म करें। रात को सोने से पहले पिएं।",
+        "safetyTip": "Supportive comfort remedy. If phlegm is yellow/green and accompanied by chest tightness, consult a physician.",
+        "safetyTip_hi": "शरीर दर्द और गले को आराम देता है। यदि कफ गाढ़ा पीला/हरा हो या सीने में दर्द हो तो तुरंत डॉक्टर से मिलें।"
+      }
+    ]
+  },
+  {
+    "id": "backpain-1",
+    "topic": "back pain",
+    "keywords": ["back pain", "back ache", "backache", "lower back", "spine", "kamar dard", "पीठ दर्द", "कमर दर्द"],
+    "title": "Back Pain",
+    "title_hi": "पीठ दर्द",
+    "summary": "Back pain is one of the most common health complaints in India, affecting people of all ages. It can range from a dull, constant ache to a sudden, sharp pain that makes movement difficult. Most back pain is mechanical in nature — caused by muscle strain, poor posture, or disc problems. It usually improves with self-care within a few weeks. Persistent or severe back pain may indicate an underlying condition requiring medical attention.",
+    "summary_hi": "पीठ दर्द भारत में सबसे आम स्वास्थ्य शिकायतों में से एक है। यह हल्के, लगातार दर्द से लेकर अचानक तीव्र दर्द तक हो सकता है। अधिकांश पीठ दर्द यांत्रिक प्रकृति का होता है — मांसपेशियों में खिंचाव, खराब मुद्रा, या डिस्क की समस्याओं के कारण।",
+    "keyPoints": [
+      "Maintain good posture while sitting, standing, and lifting objects.",
+      "Regular gentle exercise like walking and stretching can prevent and relieve back pain.",
+      "Avoid prolonged bed rest — gentle movement helps recovery.",
+      "Apply heat or cold packs for temporary pain relief.",
+      "Consult a physiotherapist or doctor if pain is severe, radiates to the legs, or persists beyond 6 weeks."
+    ],
+    "keyPoints_hi": [
+      "बैठते, खड़े होते और वस्तुएं उठाते समय अच्छी मुद्रा बनाए रखें।",
+      "चलने और स्ट्रेचिंग जैसे नियमित हल्के व्यायाम पीठ दर्द को रोक और राहत दे सकते हैं।",
+      "लंबे समय तक बिस्तर पर आराम से बचें — हल्की हलचल ठीक होने में मदद करती है।",
+      "अस्थायी दर्द राहत के लिए गर्म या ठंडी पट्टी लगाएं।",
+      "यदि दर्द गंभीर हो, पैरों में फैले, या 6 सप्ताह से अधिक बना रहे तो फिजियोथेरेपिस्ट या डॉक्टर से परामर्श लें।"
+    ],
+    "source": "World Health Organization (WHO) Fact Sheet",
+    "sourceUrl": "https://www.who.int/news-room/fact-sheets/detail/low-back-pain",
+    "disclaimer": "This is general health information only. It does not replace advice from a qualified healthcare professional.",
+    "ghareluUpchaar": [
+      {
+        "id": "backpain-upchaar-1",
+        "title": "Warm Mustard Oil & Garlic Gentle Massage",
+        "title_hi": "लहसुन वाला गुनगुना सरसों का तेल मालिश",
+        "rating": 4.8,
+        "reviewCount": 2180,
+        "practice": "Warm 3 tablespoons of mustard oil with 3 crushed garlic cloves until light golden. Cool until pleasantly warm. Gently massage the lower back with circular motions without applying heavy spinal pressure.",
+        "practice_hi": "3 चम्मच सरसों के तेल में 3 कलियां लहसुन डालकर हल्का पकाएं। गुनगुना होने पर पीठ के निचले हिस्से पर हल्के हाथों से गोलाई में मालिश करें। रीढ़ की हड्डी पर जोर न दें।",
+        "safetyTip": "External soothing comfort only. Never apply vigorous pressure on the spine. If pain radiates down the legs or numbness occurs, see a neurologist or orthopaedic specialist.",
+        "safetyTip_hi": "केवल बाहरी आराम के लिए। रीढ़ पर तेज दबाव न डालें। यदि दर्द पैरों में जाए या सुन्नपन हो तो तुरंत डॉक्टर से मिलें।"
+      },
+      {
+        "id": "backpain-upchaar-2",
+        "title": "Warm Water Bottle Compress & Gentle Cat-Cow Stretch",
+        "title_hi": "गर्म सिकाई और मार्जरी आसन (हल्की स्ट्रेचिंग)",
+        "rating": 4.7,
+        "reviewCount": 1650,
+        "practice": "Apply a warm water compress or heating pad wrapped in a towel for 15 minutes to ease muscle stiffness. Follow with gentle pelvic tilts or light Cat-Cow yoga stretches on a flat, firm mat.",
+        "practice_hi": "तौलिए में लपेटकर गर्म पानी की बोतल से 15 मिनट सिकाई करें। इसके बाद चटाई पर हल्के स्ट्रेचिंग या मार्जरी आसन करें।",
+        "safetyTip": "Stop immediately if any movement causes sharp or shooting pain. Do not lift heavy objects while in pain.",
+        "safetyTip_hi": "यदि किसी भी स्ट्रेचिंग से तेज दर्द हो तो तुरंत रुक जाएं। दर्द के दौरान भारी वजन न उठाएं।"
+      }
+    ]
+  },
+  {
+    "id": "anxiety-1",
+    "topic": "anxiety",
+    "keywords": ["anxiety", "mental health", "stress", "depression", "tension", "worry", "panic", "chinta", "चिंता", "तनाव", "मानसिक स्वास्थ्य"],
+    "title": "Anxiety & Mental Health",
+    "title_hi": "चिंता और मानसिक स्वास्थ्य",
+    "summary": "Anxiety is a normal response to stress, but when it becomes excessive or uncontrollable, it can interfere with daily life. Anxiety disorders are among the most common mental health conditions in India. Symptoms include persistent worry, restlessness, difficulty concentrating, irritability, sleep disturbances, and physical symptoms like a racing heart or shortness of breath. Mental health is as important as physical health, and seeking help is a sign of strength.",
+    "summary_hi": "चिंता तनाव के प्रति एक सामान्य प्रतिक्रिया है, लेकिन जब यह अत्यधिक या अनियंत्रित हो जाती है, तो यह दैनिक जीवन में बाधा डाल सकती है। भारत में चिंता विकार सबसे आम मानसिक स्वास्थ्य स्थितियों में से हैं। मानसिक स्वास्थ्य उतना ही महत्वपूर्ण है जितना शारीरिक स्वास्थ्य।",
+    "keyPoints": [
+      "Seeking professional help for mental health is a sign of strength, not weakness.",
+      "Mindfulness, meditation, and yoga can reduce anxiety symptoms.",
+      "Regular exercise, adequate sleep, and social connection support mental wellbeing.",
+      "NIMHANS helpline (080-46110007) and iCall (9152987821) offer mental health support in India.",
+      "Therapy (counselling) and/or medication prescribed by a psychiatrist can be highly effective."
+    ],
+    "keyPoints_hi": [
+      "मानसिक स्वास्थ्य के लिए पेशेवर सहायता लेना कमजोरी नहीं, बल्कि ताकत की निशानी है।",
+      "माइंडफुलनेस, ध्यान और योग चिंता के लक्षणों को कम कर सकते हैं।",
+      "नियमित व्यायाम, पर्याप्त नींद और सामाजिक संपर्क मानसिक स्वास्थ्य का समर्थन करते हैं।",
+      "NIMHANS हेल्पलाइन (080-46110007) और iCall (9152987821) भारत में मानसिक स्वास्थ्य सहायता प्रदान करती हैं।",
+      "मनोचिकित्सक द्वारा निर्धारित थेरेपी और/या दवा बहुत प्रभावी हो सकती है।"
+    ],
+    "source": "National Institute of Mental Health and Neurosciences (NIMHANS)",
+    "sourceUrl": "https://nimhans.ac.in/",
+    "disclaimer": "This is general health information only. If you are in crisis, please call iCall at 9152987821 or visit your nearest hospital.",
+    "ghareluUpchaar": [
+      {
+        "id": "anxiety-upchaar-1",
+        "title": "Anulom Vilom & Deep Belly Breathing (Pranayama)",
+        "title_hi": "अनुलोम-विलोम एवं गहरी सांस (प्राणायाम)",
+        "rating": 4.9,
+        "reviewCount": 4650,
+        "practice": "Sit comfortably with your back straight. Inhale deeply through your left nostril while closing the right, hold for 2 seconds, and exhale smoothly through the right nostril. Repeat for 10 minutes daily morning or evening to trigger the body's parasympathetic relaxation response.",
+        "practice_hi": "पीठ सीधी करके बैठें। बाएं नथुने से धीरे-धीरे गहरी सांस लें, 2 सेकंड रोकें और दाएं नथुने से छोड़ें। सुबह या शाम 10 मिनट करें। यह मन को शांत करने में बहुत प्रभावी है।",
+        "safetyTip": "Natural relaxation technique. Does not replace professional counselling or psychiatric care for severe anxiety or panic attacks.",
+        "safetyTip_hi": "प्राकृतिक तनाव-मुक्ति अभ्यास है। गंभीर अवसाद या घबराहट के दौरों के लिए पेशेवर परामर्श का विकल्प नहीं है।"
+      },
+      {
+        "id": "anxiety-upchaar-2",
+        "title": "Warm Milk with Nutmeg (Jaiphal) & Chamomile",
+        "title_hi": "जायफल वाला गुनगुना दूध या कैमोमाइल चाय",
+        "rating": 4.7,
+        "reviewCount": 1820,
+        "practice": "Add a tiny pinch of freshly grated nutmeg (jaiphal) to a cup of warm milk 30 minutes before sleep. Nutmeg contains natural calming compounds (myristicin) that facilitate restful sleep.",
+        "practice_hi": "सोने से आधा घंटा पहले 1 कप गुनगुने दूध में एक चुटकी जायफल पाउडर मिलाएं। यह नींद की गुणवत्ता सुधारने और बेचैनी कम करने में मदद करता है।",
+        "safetyTip": "Use only a tiny pinch of nutmeg. High amounts must be strictly avoided. Ensure a consistent sleep schedule.",
+        "safetyTip_hi": "जायफल केवल एक चुटकी ही लें, अधिक मात्रा में न लें। पर्याप्त नींद का नियम बनाएं।"
+      }
+    ]
+  },
+  {
+    "id": "dengue-1",
+    "topic": "dengue",
+    "keywords": ["dengue", "dengue fever", "mosquito", "डेंगू"],
+    "title": "Dengue Fever",
+    "title_hi": "डेंगू बुखार",
+    "summary": "Dengue fever is a mosquito-borne viral infection prevalent in tropical and subtropical regions of India. It is transmitted by the Aedes aegypti mosquito, which bites primarily during the day. Symptoms include high fever (40°C/104°F), severe headache, pain behind the eyes, muscle and joint pains, nausea, vomiting, swollen glands, and rash. Dengue can progress to severe dengue (dengue haemorrhagic fever), which can be life-threatening and requires urgent medical care.",
+    "summary_hi": "डेंगू बुखार भारत के उष्णकटिबंधीय क्षेत्रों में प्रचलित एक मच्छर जनित वायरल संक्रमण है। यह एडीज एजिप्टी मच्छर द्वारा फैलता है जो मुख्य रूप से दिन के दौरान काटता है। लक्षणों में तेज बुखार, गंभीर सिरदर्द, आंखों के पीछे दर्द, मांसपेशियों और जोड़ों में दर्द शामिल हैं।",
+    "keyPoints": [
+      "Eliminate stagnant water around your home — this is where Aedes mosquitoes breed.",
+      "Use mosquito repellents, wear long-sleeved clothing, and use mosquito nets.",
+      "There is no specific antiviral treatment; management involves rest and hydration.",
+      "Avoid aspirin and ibuprofen — they can worsen bleeding; use paracetamol for fever.",
+      "Seek immediate medical attention if you have severe abdominal pain, persistent vomiting, or bleeding."
+    ],
+    "keyPoints_hi": [
+      "अपने घर के आसपास रुके हुए पानी को हटाएं — यहीं एडीज मच्छर प्रजनन करते हैं।",
+      "मच्छर भगाने वाली क्रीम का उपयोग करें, लंबी आस्तीन के कपड़े पहनें, मच्छरदानी का उपयोग करें।",
+      "कोई विशिष्ट एंटीवायरल उपचार नहीं है; आराम और तरल पदार्थ महत्वपूर्ण हैं।",
+      "एस्पिरिन और इबुप्रोफेन से बचें — ये रक्तस्राव को बढ़ा सकते हैं; बुखार के लिए पेरासिटामोल लें।",
+      "गंभीर पेट दर्द, लगातार उल्टी या रक्तस्राव होने पर तुरंत चिकित्सा सहायता लें।"
+    ],
+    "source": "National Vector Borne Disease Control Programme, India",
+    "sourceUrl": "https://nvbdcp.gov.in/index4.php?lang=1&level=0&linkid=431&lid=3715",
+    "disclaimer": "This is general health information only. Severe dengue is a medical emergency — seek immediate hospital care.",
+    "ghareluUpchaar": [
+      {
+        "id": "dengue-upchaar-1",
+        "title": "Fresh Tender Coconut Water & ORS for Hydration",
+        "title_hi": "नारियल पानी एवं ओआरएस (ORS) से भरपूर हाइड्रेशन",
+        "rating": 4.9,
+        "reviewCount": 3540,
+        "practice": "Drink fresh coconut water 2-3 times daily alongside oral rehydration salts (ORS) and clean boiled water. In dengue, fluid loss and platelet balance require continuous electrolyte hydration.",
+        "practice_hi": "दिन में 2-3 बार ताजा नारियल पानी, ओआरएस और उबला हुआ पानी पिएं। डेंगू में शरीर को डिहाइड्रेशन से बचाना सबसे महत्वपूर्ण है।",
+        "safetyTip": "Supportive hydration only. Hospitalization and daily platelet count tests (CBC) under a doctor's care are essential. Watch for warning signs.",
+        "safetyTip_hi": "यह केवल हाइड्रेशन बनाए रखने के लिए है। डॉक्टर की निगरानी में नियमित प्लेटलेट टेस्ट (CBC) अनिवार्य है।"
+      },
+      {
+        "id": "dengue-upchaar-2",
+        "title": "Fresh Papaya Leaf Juice (In Consultation with Doctor)",
+        "title_hi": "पपीते के पत्तों का ताजा रस (डॉक्टर की सलाह पर)",
+        "rating": 4.6,
+        "reviewCount": 2890,
+        "practice": "Crush fresh, washed young papaya leaves and extract 10-15 ml of raw juice once daily. Traditionally used across India during viral recovery.",
+        "practice_hi": "पपीते के साफ और ताजे पत्तों को पीसकर 10-15 मिली रस निकालें। पारंपरिक रूप से इसे रिकवरी में सहायक माना जाता है।",
+        "safetyTip": "Do NOT rely on papaya juice alone to treat dengue. Never give to pregnant women. Always prioritize clinical hospital monitoring.",
+        "safetyTip_hi": "डेंगू के इलाज के लिए केवल पपीते के रस पर निर्भर न रहें। गर्भवती महिलाएं इसका सेवन न करें। अस्पताल की निगरानी प्राथमिकता है।"
+      }
+    ]
+  },
+  {
+    "id": "typhoid-1",
+    "topic": "typhoid",
+    "keywords": ["typhoid", "typhoid fever", "enteric fever", "मोतीझरा", "टाइफाइड"],
+    "title": "Typhoid Fever",
+    "title_hi": "टाइफाइड बुखार",
+    "summary": "Typhoid fever is a bacterial infection caused by Salmonella typhi, spread through contaminated food and water. It is a significant public health concern in India. Symptoms develop gradually and include sustained high fever (39–40°C), headache, abdominal pain, loss of appetite, weakness, and sometimes a rash. Typhoid is treated with antibiotics. Without proper treatment, complications including intestinal perforation can occur.",
+    "summary_hi": "टाइफाइड बुखार साल्मोनेला टाइफी नामक जीवाणु से होने वाला संक्रमण है, जो दूषित भोजन और पानी के माध्यम से फैलता है। भारत में यह एक महत्वपूर्ण सार्वजनिक स्वास्थ्य समस्या है। लक्षणों में उच्च बुखार, सिरदर्द, पेट दर्द, भूख न लगना और कमजोरी शामिल हैं।",
+    "keyPoints": [
+      "Drink only boiled or purified water and eat properly cooked food.",
+      "Wash hands thoroughly before eating and after using the toilet.",
+      "Typhoid vaccine is available and recommended for people in high-risk areas.",
+      "Complete the full course of antibiotics as prescribed, even if you feel better.",
+      "Consult a doctor promptly if you have fever for more than 3 days."
+    ],
+    "keyPoints_hi": [
+      "केवल उबला हुआ या शुद्ध पानी पिएं और ठीक से पका हुआ भोजन खाएं।",
+      "खाने से पहले और शौचालय के बाद हाथ अच्छी तरह धोएं।",
+      "टाइफाइड का टीका उपलब्ध है और उच्च जोखिम वाले क्षेत्रों में रहने वालों के लिए अनुशंसित है।",
+      "निर्धारित एंटीबायोटिक्स का पूरा कोर्स पूरा करें, भले ही आप बेहतर महसूस करें।",
+      "यदि 3 दिनों से अधिक बुखार रहे तो तुरंत डॉक्टर से परामर्श लें।"
+    ],
+    "source": "World Health Organization (WHO) Fact Sheet",
+    "sourceUrl": "https://www.who.int/news-room/fact-sheets/detail/typhoid",
+    "disclaimer": "This is general health information only. It does not replace advice from a qualified healthcare professional.",
+    "ghareluUpchaar": [
+      {
+        "id": "typhoid-upchaar-1",
+        "title": "Moong Dal Khichdi & Boiled Cumin Water",
+        "title_hi": "मूंग दाल की पतली खिचड़ी और उबला जीरा पानी",
+        "rating": 4.8,
+        "reviewCount": 1950,
+        "practice": "Prepare soft, watery moong dal and rice khichdi with a pinch of roasted cumin and turmeric. Drink water boiled with 1/2 teaspoon of cumin seeds to keep the intestines gently hydrated without strain.",
+        "practice_hi": "मूंग दाल और चावल की पतली और सुपाच्य खिचड़ी बनाकर खाएं। पानी में थोड़ा जीरा डालकर उबालें और ठंडा करके पिएं।",
+        "safetyTip": "Typhoid is a serious bacterial disease requiring prescription antibiotics. Home food care is only to prevent digestive strain while on medication.",
+        "safetyTip_hi": "टाइफाइड में डॉक्टर द्वारा निर्धारित एंटीबायोटिक्स लेना अनिवार्य है। यह सुपाच्य आहार केवल पाचन को आराम देने के लिए है।"
+      }
+    ]
+  },
+  {
+    "id": "anemia-1",
+    "topic": "anemia",
+    "keywords": ["anemia", "anaemia", "iron deficiency", "low hemoglobin", "haemoglobin", "खून की कमी", "रक्ताल्पता", "एनीमिया"],
+    "title": "Anaemia (Iron Deficiency)",
+    "title_hi": "रक्ताल्पता (आयरन की कमी)",
+    "summary": "Anaemia is a condition in which the blood doesn't have enough healthy red blood cells to carry adequate oxygen to the body's tissues. Iron deficiency anaemia is the most common form in India, particularly among women and children. Symptoms include fatigue, weakness, pale skin, shortness of breath, dizziness, cold hands and feet, and brittle nails. India has a high burden of anaemia and the government runs the Anaemia Mukt Bharat (Anaemia-Free India) programme.",
+    "summary_hi": "रक्ताल्पता एक ऐसी स्थिति है जिसमें रक्त में पर्याप्त स्वस्थ लाल रक्त कोशिकाएं नहीं होतीं। भारत में आयरन की कमी से होने वाली रक्ताल्पता सबसे आम है, विशेष रूप से महिलाओं और बच्चों में। लक्षणों में थकान, कमजोरी, पीली त्वचा, सांस की तकलीफ और चक्कर शामिल हैं।",
+    "keyPoints": [
+      "Eat iron-rich foods: leafy greens (spinach, methi), legumes (dal, rajma), fortified cereals, meat, and eggs.",
+      "Vitamin C improves iron absorption — consume citrus fruits with iron-rich meals.",
+      "Avoid tea and coffee with meals as they inhibit iron absorption.",
+      "Iron supplements may be recommended by a doctor — take as directed.",
+      "Get a blood test (CBC with Hb) to confirm anaemia before starting treatment."
+    ],
+    "keyPoints_hi": [
+      "आयरन युक्त खाद्य पदार्थ खाएं: हरी पत्तेदार सब्जियां (पालक, मेथी), दालें (दाल, राजमा), फोर्टिफाइड अनाज, मांस और अंडे।",
+      "विटामिन C आयरन के अवशोषण में सुधार करता है — आयरन युक्त भोजन के साथ खट्टे फल खाएं।",
+      "भोजन के साथ चाय और कॉफी से बचें क्योंकि ये आयरन के अवशोषण को रोकते हैं।",
+      "डॉक्टर द्वारा आयरन सप्लीमेंट की सिफारिश की जा सकती है — निर्देशानुसार लें।",
+      "उपचार शुरू करने से पहले रक्ताल्पता की पुष्टि के लिए रक्त परीक्षण (CBC with Hb) करवाएं।"
+    ],
+    "source": "Ministry of Health & Family Welfare, India — Anaemia Mukt Bharat",
+    "sourceUrl": "https://anemiamuktbharat.info/",
+    "disclaimer": "This is general health information only. It does not replace advice from a qualified healthcare professional.",
+    "ghareluUpchaar": [
+      {
+        "id": "anemia-upchaar-1",
+        "title": "Jaggery (Gur) with Roasted Bengal Gram (Bhuna Chana)",
+        "title_hi": "गुड़ और भुना चना का दैनिक स्नैक",
+        "rating": 4.9,
+        "reviewCount": 3120,
+        "practice": "Eat a small handful of roasted chana alongside a 20-30g piece of organic jaggery in the afternoon. Jaggery is naturally rich in iron, and roasted gram provides plant proteins.",
+        "practice_hi": "दोपहर में मुट्ठी भर भुना चना और 20-30 ग्राम गुड़ खाएं। गुड़ में प्राकृतिक रूप से आयरन होता है और चना प्रोटीन देता है।",
+        "safetyTip": "Supportive traditional dietary practice. If diagnosed with severe anaemia, prescribed iron-folic acid tablets are necessary.",
+        "safetyTip_hi": "यह एक पारंपरिक पौष्टिक आदत है। गंभीर एनीमिया के मामले में डॉक्टर द्वारा दी गई आयरन की गोलियां लेना जरूरी है।"
+      },
+      {
+        "id": "anemia-upchaar-2",
+        "title": "Beetroot, Carrot & Fresh Lemon Juice",
+        "title_hi": "चुकंदर, गाजर और नींबू का ताजा रस",
+        "rating": 4.8,
+        "reviewCount": 2640,
+        "practice": "Blend half a beetroot and 1 carrot with a splash of water. Squeeze fresh lemon juice on top. Vitamin C from lemon significantly increases the intestinal absorption of dietary non-heme iron.",
+        "practice_hi": "आधा चुकंदर और 1 गाजर का रस निकालें और ऊपर से आधा नींबू निचोड़ें। नींबू का विटामिन सी आयरन को शरीर में सोखने में मदद करता है।",
+        "safetyTip": "Nutritious dietary supplement. Avoid drinking tea or coffee within 1 hour of this juice as tannins block iron uptake.",
+        "safetyTip_hi": "पौष्टिक आहार है। इस रस के 1 घंटे पहले और बाद चाय या कॉफी न पिएं क्योंकि वे आयरन का अवशोषण रोकते हैं।"
+      }
+    ]
+  },
+  {
+    "id": "arthritis-1",
+    "topic": "arthritis",
+    "keywords": ["arthritis", "joint pain", "rheumatoid", "osteoarthritis", "gathiya", "जोड़ों का दर्द", "गठिया", "आर्थराइटिस"],
+    "title": "Arthritis & Joint Pain",
+    "title_hi": "गठिया और जोड़ों का दर्द",
+    "summary": "Arthritis is a broad term for conditions causing joint pain, stiffness, and swelling. The most common types in India are osteoarthritis (wear-and-tear of cartilage, common in older adults and the knees) and rheumatoid arthritis (an autoimmune condition). Arthritis can significantly affect quality of life but can be managed with appropriate treatment, physiotherapy, and lifestyle changes. Early diagnosis and treatment can slow progression.",
+    "summary_hi": "गठिया जोड़ों में दर्द, कठोरता और सूजन पैदा करने वाली स्थितियों का व्यापक शब्द है। भारत में सबसे आम प्रकार ऑस्टियोआर्थराइटिस (उपास्थि का टूटना, बुजुर्गों और घुटनों में आम) और रुमेटाइड आर्थराइटिस (एक ऑटोइम्यून स्थिति) हैं।",
+    "keyPoints": [
+      "Maintain a healthy weight to reduce stress on weight-bearing joints like knees and hips.",
+      "Low-impact exercises like swimming, cycling, and yoga can improve joint function.",
+      "Hot and cold therapy can help manage pain and stiffness.",
+      "Rheumatoid arthritis requires specific disease-modifying medications — see a rheumatologist.",
+      "Physiotherapy is highly beneficial for improving strength and mobility around affected joints."
+    ],
+    "keyPoints_hi": [
+      "घुटनों और कूल्हों जैसे भार वहन करने वाले जोड़ों पर तनाव कम करने के लिए स्वस्थ वजन बनाए रखें।",
+      "तैराकी, साइकिलिंग और योग जैसे कम प्रभाव वाले व्यायाम जोड़ों की कार्यक्षमता में सुधार कर सकते हैं।",
+      "गर्म और ठंडी थेरेपी दर्द और कठोरता को प्रबंधित करने में मदद कर सकती है।",
+      "रुमेटाइड आर्थराइटिस के लिए विशिष्ट रोग-संशोधित दवाओं की आवश्यकता होती है — रुमेटोलॉजिस्ट से मिलें।",
+      "फिजियोथेरेपी प्रभावित जोड़ों के आसपास ताकत और गतिशीलता में सुधार के लिए अत्यधिक फायदेमंद है।"
+    ],
+    "source": "World Health Organization (WHO) / Vikaspedia",
+    "sourceUrl": "https://www.who.int/news-room/fact-sheets/detail/musculoskeletal-conditions",
+    "disclaimer": "This is general health information only. It does not replace advice from a qualified healthcare professional.",
+    "ghareluUpchaar": [
+      {
+        "id": "arthritis-upchaar-1",
+        "title": "Warm Sesame Oil (Til Ka Tel) Gentle Joint Rub",
+        "title_hi": "हल्के गर्म तिल के तेल से जोड़ों की मालिश",
+        "rating": 4.8,
+        "reviewCount": 1940,
+        "practice": "Warm pure sesame oil slightly and massage gently around stiff joints for 10 minutes in the morning, followed by a warm towel wrap. Helps lubricate tissues and reduce morning stiffness.",
+        "practice_hi": "तिल के तेल को हल्का गुनगुना करें और अकड़े हुए जोड़ों पर हल्के हाथों से 10 मिनट मालिश करें, फिर गुनगुने कपड़े से सिकाई करें।",
+        "safetyTip": "External comfort measure. Do not press inflamed, red, or swollen joints aggressively. Consult a rheumatologist for chronic joint disease.",
+        "safetyTip_hi": "बाहरी आराम के लिए। यदि जोड़ बहुत लाल और सूजा हुआ हो तो जोर से मालिश न करें। डॉक्टर से जांच कराएं।"
+      },
+      {
+        "id": "arthritis-upchaar-2",
+        "title": "Fresh Ginger & Fenugreek Warm Decoction",
+        "title_hi": "अदरक और मेथी दाने का गर्म पानी",
+        "rating": 4.7,
+        "reviewCount": 1580,
+        "practice": "Boil 1/2 teaspoon crushed ginger and 1/2 teaspoon methi seeds in 2 cups of water for 5 minutes. Gingerols and fenugreek contain natural anti-inflammatory compounds.",
+        "practice_hi": "2 कप पानी में आधा चम्मच अदरक और आधा चम्मच मेथी दाना डालकर 5 मिनट उबालें और छानकर पिएं।",
+        "safetyTip": "Supportive dietary beverage. Discuss with doctor if taking anticoagulant or stomach acid medications.",
+        "safetyTip_hi": "सहायक पेय है। नियमित व्यायाम और वजन नियंत्रण पर भी ध्यान दें।"
+      }
+    ]
+  },
+  {
+    "id": "asthma-1",
+    "topic": "asthma",
+    "keywords": ["asthma", "breathing problem", "shortness of breath", "wheezing", "dama", "दमा", "अस्थमा", "सांस की तकलीफ"],
+    "title": "Asthma",
+    "title_hi": "अस्थमा (दमा)",
+    "summary": "Asthma is a chronic condition affecting the airways in the lungs, causing them to become inflamed and narrowed. This leads to recurring episodes of wheezing, breathlessness, chest tightness, and coughing, often triggered by allergens (dust, pollen, pet dander), respiratory infections, cold air, exercise, or smoke. Asthma cannot be cured but can be well-controlled with appropriate medication. Air pollution is a major trigger in Indian cities.",
+    "summary_hi": "अस्थमा फेफड़ों में वायुमार्ग को प्रभावित करने वाली एक पुरानी स्थिति है। यह घरघराहट, सांस की तकलीफ, सीने में जकड़न और खांसी के बार-बार होने वाले दौरों का कारण बनता है। धूल, पराग, ठंडी हवा, व्यायाम या धुआं इसे ट्रिगर कर सकते हैं।",
+    "keyPoints": [
+      "Identify and avoid your personal asthma triggers (dust, smoke, pollen, cold air).",
+      "Always carry your reliever inhaler (usually blue/salbutamol) for emergency use.",
+      "Use a preventer inhaler (usually brown/corticosteroid) daily as prescribed, even when feeling well.",
+      "Create an Asthma Action Plan with your doctor for managing worsening symptoms.",
+      "Air purifiers and dust-proof mattress covers can reduce indoor triggers."
+    ],
+    "keyPoints_hi": [
+      "अपने व्यक्तिगत अस्थमा ट्रिगर्स (धूल, धुआं, पराग, ठंडी हवा) की पहचान करें और उनसे बचें।",
+      "आपातकालीन उपयोग के लिए हमेशा अपना रिलीवर इनहेलर (आमतौर पर नीला/साल्बुटामोल) साथ रखें।",
+      "निर्धारित प्रिवेंटर इनहेलर (आमतौर पर भूरा/कॉर्टिकोस्टेरॉइड) रोजाना उपयोग करें।",
+      "बिगड़ते लक्षणों के प्रबंधन के लिए अपने डॉक्टर के साथ अस्थमा एक्शन प्लान बनाएं।",
+      "एयर प्यूरीफायर और धूल-प्रूफ गद्दे के कवर इनडोर ट्रिगर्स को कम कर सकते हैं।"
+    ],
+    "source": "World Health Organization (WHO) / Vikaspedia",
+    "sourceUrl": "https://www.who.int/news-room/fact-sheets/detail/asthma",
+    "disclaimer": "This is general health information only. A severe asthma attack is a medical emergency — call 112.",
+    "ghareluUpchaar": [
+      {
+        "id": "asthma-upchaar-1",
+        "title": "Warm Water Hydration & Steam Inhalation with Ajwain",
+        "title_hi": "अजवाइन की हल्की भाप और गुनगुना पानी",
+        "rating": 4.8,
+        "reviewCount": 1820,
+        "practice": "Add a pinch of carom seeds (ajwain) to hot water and inhale the gentle steam for 5 minutes. Drink sips of warm water throughout cold mornings to keep airways clear.",
+        "practice_hi": "गर्म पानी में थोड़ी अजवाइन डालकर 5 मिनट हल्की भाप लें। सुबह गुनगुना पानी घूंट-घूंट करके पिएं।",
+        "safetyTip": "CRITICAL: Home remedies NEVER replace prescription inhalers. Always keep your emergency reliever inhaler accessible. Call 112 for severe breathlessness.",
+        "safetyTip_hi": "चेतावनी: घरेलू उपाय कभी भी इनहेलर का विकल्प नहीं हैं। आपातकालीन इनहेलर हमेशा साथ रखें। सांस फूलने पर तुरंत 112 या अस्पताल जाएं।"
+      }
+    ]
+  },
+  {
+    "id": "skin-1",
+    "topic": "skin problems",
+    "keywords": ["skin", "rash", "itching", "eczema", "psoriasis", "acne", "pimple", "fungal", "त्वचा", "खुजली", "दाने", "मुंहासे"],
+    "title": "Common Skin Problems",
+    "title_hi": "सामान्य त्वचा समस्याएं",
+    "summary": "Skin problems are very common in India, affecting people of all ages. Common conditions include acne, eczema (atopic dermatitis), psoriasis, fungal infections (ringworm/tinea), contact dermatitis, and heat rash. India's tropical climate can worsen many skin conditions. Symptoms vary widely: rash, itching, redness, dryness, blisters, or discolouration. Proper skin hygiene, appropriate moisturising, and sun protection are important for skin health.",
+    "summary_hi": "त्वचा की समस्याएं भारत में बहुत आम हैं। सामान्य स्थितियों में मुंहासे, एक्जिमा, सोरायसिस, फंगल संक्रमण (दाद/टिनिया), संपर्क जिल्द की सूजन और गर्मी के दाने शामिल हैं। भारत की उष्णकटिबंधीय जलवायु कई त्वचा स्थितियों को बदतर बना सकती है।",
+    "keyPoints": [
+      "Keep skin clean and moisturised; use gentle, fragrance-free products.",
+      "Avoid scratching — it can worsen irritation and cause infection.",
+      "Apply sunscreen (SPF 30+) daily to protect against UV damage and skin darkening.",
+      "Fungal infections are common in India's humidity — keep skin dry and use antifungal powder in skin folds.",
+      "See a dermatologist for persistent, widespread, or worsening skin conditions."
+    ],
+    "keyPoints_hi": [
+      "त्वचा को साफ और मॉइस्चराइज़ रखें; हल्के, खुशबू-मुक्त उत्पादों का उपयोग करें।",
+      "खुजलाने से बचें — इससे जलन बढ़ सकती है और संक्रमण हो सकता है।",
+      "UV क्षति से बचाने के लिए रोजाना सनस्क्रीन (SPF 30+) लगाएं।",
+      "भारत की नमी में फंगल संक्रमण आम हैं — त्वचा को सूखा रखें और त्वचा की सिलवटों में एंटीफंगल पाउडर का उपयोग करें।",
+      "लगातार, व्यापक या बिगड़ती त्वचा स्थितियों के लिए त्वचा विशेषज्ञ से मिलें।"
+    ],
+    "source": "Vikaspedia India — Skin Health Portal",
+    "sourceUrl": "https://vikaspedia.in/health/health-campaigns/skin-care-tips",
+    "disclaimer": "This is general health information only. It does not replace advice from a qualified healthcare professional.",
+    "ghareluUpchaar": [
+      {
+        "id": "skin-upchaar-1",
+        "title": "Fresh Aloe Vera Gel for Soothing Irritation & Rashes",
+        "title_hi": "ताजा एलोवेरा जेल (घृतकुमारी)",
+        "rating": 4.9,
+        "reviewCount": 3890,
+        "practice": "Scoop fresh gel from an aloe vera leaf and apply gently to sunburns, mild heat rashes, or irritated skin. Leave for 15-20 minutes, then rinse with cool water. Aloe provides natural hydration and skin barrier soothing.",
+        "practice_hi": "एलोवेरा के पत्ते से ताजा जेल निकालकर धूप से झुलसी या खुजली वाली त्वचा पर लगाएं। 15-20 मिनट बाद ठंडे पानी से धो लें।",
+        "safetyTip": "Conduct a patch test on a small area of the forearm first. Do not apply on open cuts, bleeding wounds, or deep burns.",
+        "safetyTip_hi": "पहले हाथ के छोटे हिस्से पर पैच टेस्ट करें। खुले घाव या कटी हुई त्वचा पर न लगाएं।"
+      },
+      {
+        "id": "skin-upchaar-2",
+        "title": "Neem Water Wash for Tropical Skin Cleansing",
+        "title_hi": "नीम के पत्तों के पानी से त्वचा की सफाई",
+        "rating": 4.8,
+        "reviewCount": 2420,
+        "practice": "Boil a handful of thoroughly washed neem leaves in 1 litre of water for 10 minutes. Strain and allow to cool. Use as a gentle skin rinse for prickly heat and summer itchiness.",
+        "practice_hi": "एक मुट्ठी साफ नीम के पत्तों को 1 लीटर पानी में 10 मिनट उबालें। ठंडा करके घमौरियों और गर्मियों की खुजली में स्नान के पानी में मिलाकर इस्तेमाल करें।",
+        "safetyTip": "For external topical wash only. If rash spreads, oozes, or develops into blisters, consult a dermatologist.",
+        "safetyTip_hi": "केवल बाहरी उपयोग के लिए। यदि दाने बढ़ें या मवाद निकले तो त्वचा विशेषज्ञ को दिखाएं।"
+      }
+    ]
+  },
+  {
+    "id": "digestive-1",
+    "topic": "digestive issues",
+    "keywords": ["digestive", "digestion", "stomach", "acidity", "heartburn", "constipation", "diarrhea", "diarrhoea", "ibs", "gas", "bloating", "pet dard", "पेट दर्द", "अपच", "कब्ज", "दस्त"],
+    "title": "Digestive Issues & Acidity",
+    "title_hi": "पाचन संबंधी समस्याएं और एसिडिटी",
+    "summary": "Digestive problems are extremely common in India and include acidity/GERD (gastroesophageal reflux disease), constipation, diarrhoea, irritable bowel syndrome (IBS), and food intolerances. Common causes include spicy food, irregular meal times, stress, inadequate water intake, and infections. Most mild digestive issues can be managed with dietary changes. Persistent or severe symptoms may indicate a more serious condition.",
+    "summary_hi": "भारत में पाचन संबंधी समस्याएं बहुत आम हैं जिनमें एसिडिटी/GERD, कब्ज, दस्त, इरिटेबल बाउल सिंड्रोम (IBS) और भोजन असहिष्णुता शामिल हैं। मसालेदार भोजन, अनियमित भोजन समय, तनाव और पानी की कमी सामान्य कारण हैं।",
+    "keyPoints": [
+      "Eat regular, balanced meals and chew food thoroughly.",
+      "Drink 8–10 glasses of water daily to aid digestion and prevent constipation.",
+      "Increase dietary fibre through fruits, vegetables, and whole grains.",
+      "Avoid lying down immediately after meals; wait at least 2 hours.",
+      "Seek medical attention for blood in stool, unexplained weight loss, persistent pain, or vomiting."
+    ],
+    "keyPoints_hi": [
+      "नियमित, संतुलित भोजन करें और भोजन को अच्छी तरह चबाएं।",
+      "पाचन में सहायता और कब्ज से बचाव के लिए रोजाना 8-10 गिलास पानी पिएं।",
+      "फलों, सब्जियों और साबुत अनाज के माध्यम से आहार में फाइबर बढ़ाएं।",
+      "भोजन के तुरंत बाद लेटने से बचें; कम से कम 2 घंटे प्रतीक्षा करें।",
+      "मल में खून, अकारण वजन घटना, लगातार दर्द या उल्टी के लिए तुरंत चिकित्सा सहायता लें।"
+    ],
+    "source": "Vikaspedia India — Health & Digestion",
+    "sourceUrl": "https://vikaspedia.in/health/nutrition/dietary-guidelines-for-indians",
+    "disclaimer": "This is general health information only. It does not replace advice from a qualified healthcare professional.",
+    "ghareluUpchaar": [
+      {
+        "id": "digestive-upchaar-1",
+        "title": "Roasted Jeera (Cumin) & Ajwain Warm Water",
+        "title_hi": "भुना जीरा और अजवाइन का गुनगुना पानी",
+        "rating": 4.9,
+        "reviewCount": 4120,
+        "practice": "Lightly roast 1/2 teaspoon cumin seeds and 1/4 teaspoon ajwain. Boil in 1 glass of water for 3-4 minutes. Sip warm after meals. Thymol in ajwain and essential oils in cumin stimulate gastric digestive enzymes and relieve bloating.",
+        "practice_hi": "आधा चम्मच जीरा और 1/4 चम्मच अजवाइन को हल्का भूनकर 1 गिलास पानी में 3-4 मिनट उबालें। खाने के बाद गुनगुना पिएं। गैस और भारीपन में तुरंत आराम देता है।",
+        "safetyTip": "Supportive relief for mild gas and indigestion. If stomach pain is severe, accompanied by black stool, or lasts over 24 hours, seek emergency medical care.",
+        "safetyTip_hi": "हल्की गैस और अपच में सहायक है। पेट में बहुत तेज दर्द या उल्टी हो तो तुरंत डॉक्टर को दिखाएं।"
+      },
+      {
+        "id": "digestive-upchaar-2",
+        "title": "Fresh Buttermilk (Chhaas) with Roasted Cumin & Mint",
+        "title_hi": "ताजा मट्ठा (छाछ) भुना जीरा और पुदीने के साथ",
+        "rating": 4.9,
+        "reviewCount": 3840,
+        "practice": "Whisk 1/2 cup fresh curd with 1/2 cup cool water, a pinch of black salt (kala namak), roasted cumin powder, and fresh mint leaves. Natural probiotics in buttermilk help cool stomach burning and replenish healthy gut flora.",
+        "practice_hi": "आधा कप ताजे दही में आधा कप पानी, थोड़ा काला नमक, भुना जीरा और पुदीना मिलाकर छाछ बनाएं। यह पेट की जलन शांत करता है और पाचन सुधारता है।",
+        "safetyTip": "Healthy dietary probiotic beverage. Avoid sour or stale curd. Consult a physician for persistent GERD or suspected ulcers.",
+        "safetyTip_hi": "स्वस्थ और पाचक पेय। खट्टी छाछ से बचें। लगातार एसिडिटी या अल्सर के लिए डॉक्टर से परामर्श लें।"
+      },
+      {
+        "id": "digestive-upchaar-3",
+        "title": "Fennel Seeds (Saunf) & Rock Sugar (Mishri) After Meals",
+        "title_hi": "भोजन के बाद सौंफ और मिश्री",
+        "rating": 4.8,
+        "reviewCount": 2790,
+        "practice": "Chew 1 teaspoon of fennel seeds with a small piece of mishri after lunch or dinner. Anethole in fennel relaxes intestinal smooth muscles, preventing acid reflux and refreshing breath naturally.",
+        "practice_hi": "भोजन के बाद 1 चम्मच सौंफ थोड़ी मिश्री के साथ चबाएं। यह लार और पाचक रसों के स्राव को बढ़ाता है।",
+        "safetyTip": "Gentle post-meal digestive comfort measure.",
+        "safetyTip_hi": "भोजन के बाद पाचन को आराम देने वाला प्राकृतिक उपाय।"
+      }
+    ]
+  }
+]
