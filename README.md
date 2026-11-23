@@ -80,6 +80,18 @@ Open `http://localhost:5173` in your browser.
 
 The Vite development server proxies `/api` requests to `http://localhost:3001` by default.
 
+## Render deployment
+
+Deploy the `backend/` directory as a Node web service and set these environment variables:
+
+- `MONGODB_URI`: MongoDB Atlas connection string.
+- `FRONTEND_URL`: exact public frontend origin.
+- `FRONTEND_URLS` (optional): comma-separated additional frontend origins.
+
+Deploy the `frontend/` directory as a separate Render Static Site and set:
+
+- `VITE_API_URL=https://ayuvitamin.onrender.com/api`
+
 ## Medical safety
 
 AyuVitamin provides general educational information and care navigation. It does not diagnose conditions, prescribe treatment, or replace a qualified healthcare professional. Home remedies are supportive information only. Facility listings and ratings may be sample data and should be verified before use. For an emergency in India, call **112** or go to the nearest emergency department.

@@ -14,12 +14,18 @@ const app = express();
 const PORT = process.env.PORT || 3001;
 const MONGODB_URI = process.env.MONGODB_URI;
 const GOOGLE_PLACES_API_KEY = process.env.GOOGLE_PLACES_API_KEY || null;
-const FRONTEND_URL = process.env.FRONTEND_URL || 'https://ayuvitaminfrontend.vercel.app';
+const FRONTEND_URL = (process.env.FRONTEND_URL || '').replace(/\/$/, '');
+const ADDITIONAL_FRONTEND_URLS = (process.env.FRONTEND_URLS || '')
+  .split(',')
+  .map((url) => url.trim())
+  .filter(Boolean);
 
 // ─── Middleware ───────────────────────────────────────────────────────────────
 const allowedOrigins = new Set([
+  'http://localhost:5173',
   'https://ayuvitamin-frontend.onrender.com',
-  FRONTEND_URL.replace(/\/$/, ''),
+  ...(FRONTEND_URL ? [FRONTEND_URL] : []),
+  ...ADDITIONAL_FRONTEND_URLS.map((url) => url.replace(/\/$/, '')),
 ]);
 
 app.use(cors({
